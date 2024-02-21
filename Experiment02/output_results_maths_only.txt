@@ -1,0 +1,15 @@
+First half of data files
+
+File 1 (D:/REPOS/mmw/slope-diff-data/1/xwr16xx_processed_stream_2023_09_14T16_41_23_134.dat): Average Angle Prediction = 71.69
+1.41 (should be 1.4)
+File 2 (D:/REPOS/mmw/slope-diff-data/2/xwr16xx_processed_stream_2023_09_14T16_45_33_820.dat): Average Angle Prediction = 70.28
+3.09 (should be 1.6)
+File 3 (D:/REPOS/mmw/slope-diff-data/3/xwr16xx_processed_stream_2023_09_14T16_50_15_005.dat): Average Angle Prediction = 67.19
+
+Preset 1: 7.8
++1.4
+Preset 2: 9.2
++1.6
+Preset 3: 10.8
++1.6
+Preset 4: 12.4
